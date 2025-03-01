@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+}
+.btn{
+  background-color: #3c74e6c2;
+  border-radius: 10px;
+  margin-bottom: 30px;
+  padding: 10px;
+}
+.btn:hover{
+  background-color: #6892e6c2;
+}
+
